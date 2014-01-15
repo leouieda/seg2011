@@ -1,0 +1,30 @@
+Fatiando a Terra:
+  version: 0.0.1
+  date: Thu Mar 17 12:04:17 2011
+  version control info:
+    changeset:   169:25cd7d55e048
+    tag:         tip
+    user:        Leonardo Uieda <leouieda@gmail.com>
+    date:        Tue Mar 01 17:48:01 2011 -0300
+
+Loading gravity field data from file '../data/gxx.txt'
+  data loaded=15266
+Saving gravity field data to file 'gxx.txt'
+Loading gravity field data from file '../data/gxy.txt'
+  data loaded=15266
+Saving gravity field data to file 'gxy.txt'
+Loading gravity field data from file '../data/gxz.txt'
+  data loaded=15266
+Saving gravity field data to file 'gxz.txt'
+Loading gravity field data from file '../data/gyy.txt'
+  data loaded=15266
+Saving gravity field data to file 'gyy.txt'
+Loading gravity field data from file '../data/gyz.txt'
+  data loaded=15266
+Saving gravity field data to file 'gyz.txt'
+Loading gravity field data from file '../data/gzz.txt'
+  data loaded=15266
+Saving gravity field data to file 'gzz.txt'
+Loading topography data from file '../data/topo.txt'
+  data loaded=15266
+Saving topography data to file 'topo.txt'
